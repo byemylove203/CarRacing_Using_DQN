@@ -13,4 +13,4 @@ Hướng dẫn train agent và chạy thử.
 	
 -	Train agent
 
-Chạy file train_n_run.py
+	Chạy file train_n_run.py
