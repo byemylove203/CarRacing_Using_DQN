@@ -8,6 +8,9 @@ Thư viện cần thiết
 
 Hướng dẫn train agent và chạy thử.
 -	Sử dụng bàn phím
+
 	Chạy file run_game_with_keyboard.py
+	
 -	Train agent
+
 Chạy file train_n_run.py
